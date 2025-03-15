@@ -1,0 +1,137 @@
+.chat-layout {
+  display: flex;
+  height: calc(100vh - 48px);
+  background-color: #f9fafb;
+  padding: 24px;
+  gap: 24px;
+  /* margin: 24px; */
+}
+
+.chat-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.chat-panel {
+  flex: 1;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.chat-header {
+  padding: 1rem;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.chat-title {
+  font-size: 0.875rem;
+  color: #6b7280;
+}
+
+.messages-container {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem;
+}
+
+.input-container {
+  background: white;
+  border-radius: 1rem;
+  padding: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.input-form {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.message-input {
+  width: 100%;
+  padding: 12px;    /* Reduced padding */
+  padding-right: 120px; /* Increased space for buttons */
+  border: none;
+  background-color: #f9fafb;
+  border-radius: 12px;
+  font-size: 0.875rem;
+  min-height: 30px; /* Reduced height */
+}
+
+.message-input:focus {
+  outline: none;
+}
+
+.action-buttons {
+  position: absolute;
+  right: 16px; /* Increased distance from edge */
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+.action-button {
+  background: none;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.action-button:hover {
+  background-color: #f3f4f6;
+  border-radius: 50%;
+}
+
+.icon {
+  width: 18px;
+  height: 18px;
+  display: block;
+}
+
+.send-button .icon {
+  margin-bottom: -2px;
+}
+
+.chat-container {
+  flex: 1; /* Increased from 2 to take more space */
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.ui-container {
+  flex: 0.75; /* Reduced from 1 to make it narrower */
+  background: white;
+  border-radius: 1rem;
+  padding: 1rem;
+  /* padding-left: 0.3rem; */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  overflow: hidden;
+  max-height: fit-content;
+  max-width: 1000px; /* Added max-width to prevent it from getting too wide */
+}
+
+.panel-image {
+  width: 100%;
+  object-fit: contain;
+  display: block;
+  height: auto; /* Let height be determined by content */
+  max-height: 85%; /* Remove max-height constraint */
+}
+
+.placeholder-text {
+  color: #6b7280;
+  text-align: center;
+}
+

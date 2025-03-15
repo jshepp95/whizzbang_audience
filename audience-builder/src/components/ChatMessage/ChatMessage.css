@@ -1,0 +1,131 @@
+/* ChatMessage styles */
+.chat-message {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.chat-message.user {
+  justify-content: flex-end;
+}
+
+.chat-message.bot {
+  justify-content: flex-start;
+}
+
+.message-content {
+  max-width: 70%;
+  padding: 1rem 1.25rem;
+  border-radius: 1rem;
+}
+
+.user .message-content {
+  background-color: #4353FF;  /* Blue background */
+  color: white;
+}
+
+.bot .message-content {
+  background-color: white;     /* White background */
+  border: 1px solid #E5E7EB;  /* Grey stroke */
+  color: #1f2937;
+}
+
+/* Input container styles */
+.input-container {
+  background: white;
+  border-radius: 1rem;
+  padding: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.input-form {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.message-input {
+  width: 100%;
+  padding: 16px;          /* Increased padding */
+  padding-right: 100px;   /* Space for buttons */
+  border: none;
+  background-color: #f9fafb;
+  border-radius: 12px;
+  font-size: 0.875rem;
+  min-height: 56px;       /* Fixed height */
+}
+
+.action-buttons {
+  position: absolute;
+  right: 8px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.action-button {
+  background: none;
+  border: none;
+  padding: px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  width: 40px;           /* Fixed width */
+  height: 40px;          /* Fixed height */
+}
+
+/* Style for the clip button */
+.action-button:first-child {
+  background-color: white;
+  border: 1px solid #E5E7EB;
+}
+
+/* Style for the send button */
+.action-button:last-child {
+  background-color: #4353FF;
+  color: white;
+}
+
+.typing-indicator {
+  display: inline-block;
+  animation: blink 1s infinite;
+  margin-left: 4px;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+
+/* .chat-message {
+    display: flex;
+    margin-bottom: 1rem;
+  }
+  
+  .chat-message.user {
+    justify-content: flex-end;
+  }
+  
+  .chat-message.bot {
+    justify-content: flex-start;
+  }
+  
+  .message-content {
+    max-width: 70%;
+    padding: 0.75rem 1rem;
+    border-radius: 0.5rem;
+  }
+  
+  .user .message-content {
+    background-color: #2563eb;
+    color: white;
+  }
+  
+  .bot .message-content {
+    background-color: #f3f4f6;
+    color: #1f2937;
+  }
+   */

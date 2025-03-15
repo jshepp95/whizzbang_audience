@@ -1,0 +1,488 @@
+{
+    "query": "kitkat",
+    "total_results": 25,
+    "unique_buyer_categories": [
+        "Easter Non Shell",
+        "Adult Lunchbox Bisc",
+        "Single Confectionery"
+    ],
+    "unique_product_categories": [
+        "Standard Mini Eggs",
+        "Prem Choc",
+        "Kit Kat",
+        "Singles", 
+        "Easter Singles"
+    ],
+    "by_buyer_category": {
+        "Single Confectionery": [
+            {
+                "sku": 7698571,
+                "product_name": "KitKat Chunky Orange 48g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7811121,
+                "product_name": "KitKat chunky cookie dough 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7741076,
+                "product_name": "KitKat Toffee Treat Mixed Shipper",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7962113,
+                "product_name": "KitKat Ruby 41.5g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Prem Choc"
+            },
+            {
+                "sku": 7876864,
+                "product_name": "KitKat chunky cheesecake 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7962156,
+                "product_name": "KitKat Senses Salted Caramel Single 30g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Prem Choc"
+            },
+            {
+                "sku": 7717274,
+                "product_name": "KITKAT CHUNKY Double Caramel 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7926033,
+                "product_name": "KitKat Chunky salted caramel 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 8182002,
+                "product_name": "KITKAT 4F Dark Cocoa 41.5g IAP",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Prem Choc"
+            },
+            {
+                "sku": 8034455,
+                "product_name": "KitKat Chunky Cookie Dough 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 8017254,
+                "product_name": "KitKat Gold 4 Finger 41.5g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Prem Choc"
+            },
+            {
+                "sku": 7698575,
+                "product_name": "KITKAT Mixed shipper 16.848kg",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7855020,
+                "product_name": "KitKat chunky duo 70g PFS",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            }
+        ],
+        "Adult Lunchbox Bisc": [
+            {
+                "sku": 7699416,
+                "product_name": "KitKat 2 Finger milk 14pkt",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 8204501,
+                "product_name": "KitKat 2 Finger Cookies & Cream 9pk 186g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 6014611,
+                "product_name": "Kitkat 2f orange 12pk 99p 252g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 8219342,
+                "product_name": "KitKat 2 Finger Coffee 9pk 186.3g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 8078484,
+                "product_name": "KitKat 2 finger Caramel 9pk",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 7802384,
+                "product_name": "KitKat 2 finger dark mint 8x20.7g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 7770555,
+                "product_name": "KITKAT 2F COOKIES & CREAM 16x20.8g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 6014659,
+                "product_name": "kitkat 2f mlk 12p 99p 252g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 7735987,
+                "product_name": "KitKat 2 Finger Toffee 8x20.7g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 8078048,
+                "product_name": "Kitkat 2 finger choc orange 14pk",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            }
+        ],
+        "Easter Non Shell": [
+            {
+                "sku": 8015593,
+                "product_name": "KitKat Bunny Mixed Shipper",
+                "buyer_category": "Easter Non Shell",
+                "product_category": "Easter Singles"
+            },
+            {
+                "sku": 8043776,
+                "product_name": "KitKat Mini Eggs 81g",
+                "buyer_category": "Easter Non Shell",
+                "product_category": "Standard Mini Eggs"
+            }
+        ]
+    },
+    "by_product_category": {
+        "Singles": [
+            {
+                "sku": 7698571,
+                "product_name": "KitKat Chunky Orange 48g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7811121,
+                "product_name": "KitKat chunky cookie dough 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7741076,
+                "product_name": "KitKat Toffee Treat Mixed Shipper",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7876864,
+                "product_name": "KitKat chunky cheesecake 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7717274,
+                "product_name": "KITKAT CHUNKY Double Caramel 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7926033,
+                "product_name": "KitKat Chunky salted caramel 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 8034455,
+                "product_name": "KitKat Chunky Cookie Dough 42g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7698575,
+                "product_name": "KITKAT Mixed shipper 16.848kg",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            },
+            {
+                "sku": 7855020,
+                "product_name": "KitKat chunky duo 70g PFS",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Singles"
+            }
+        ],
+        "Prem Choc": [
+            {
+                "sku": 7962113,
+                "product_name": "KitKat Ruby 41.5g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Prem Choc"
+            },
+            {
+                "sku": 7962156,
+                "product_name": "KitKat Senses Salted Caramel Single 30g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Prem Choc"
+            },
+            {
+                "sku": 8182002,
+                "product_name": "KITKAT 4F Dark Cocoa 41.5g IAP",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Prem Choc"
+            },
+            {
+                "sku": 8017254,
+                "product_name": "KitKat Gold 4 Finger 41.5g",
+                "buyer_category": "Single Confectionery",
+                "product_category": "Prem Choc"
+            }
+        ],
+        "Kit Kat": [
+            {
+                "sku": 7699416,
+                "product_name": "KitKat 2 Finger milk 14pkt",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 8204501,
+                "product_name": "KitKat 2 Finger Cookies & Cream 9pk 186g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 6014611,
+                "product_name": "Kitkat 2f orange 12pk 99p 252g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 8219342,
+                "product_name": "KitKat 2 Finger Coffee 9pk 186.3g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 8078484,
+                "product_name": "KitKat 2 finger Caramel 9pk",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 7802384,
+                "product_name": "KitKat 2 finger dark mint 8x20.7g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 7770555,
+                "product_name": "KITKAT 2F COOKIES & CREAM 16x20.8g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 6014659,
+                "product_name": "kitkat 2f mlk 12p 99p 252g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 7735987,
+                "product_name": "KitKat 2 Finger Toffee 8x20.7g",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            },
+            {
+                "sku": 8078048,
+                "product_name": "Kitkat 2 finger choc orange 14pk",
+                "buyer_category": "Adult Lunchbox Bisc",
+                "product_category": "Kit Kat"
+            }
+        ],
+        "Easter Singles": [
+            {
+                "sku": 8015593,
+                "product_name": "KitKat Bunny Mixed Shipper",
+                "buyer_category": "Easter Non Shell",
+                "product_category": "Easter Singles"
+            }
+        ],
+        "Standard Mini Eggs": [
+            {
+                "sku": 8043776,
+                "product_name": "KitKat Mini Eggs 81g",
+                "buyer_category": "Easter Non Shell",
+                "product_category": "Standard Mini Eggs"
+            }
+        ]
+    },
+    "all_products": [
+        {
+            "sku": 7698571,
+            "product_name": "KitKat Chunky Orange 48g",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Singles"
+        },
+        {
+            "sku": 7811121,
+            "product_name": "KitKat chunky cookie dough 42g",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Singles"
+        },
+        {
+            "sku": 7741076,
+            "product_name": "KitKat Toffee Treat Mixed Shipper",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Singles"
+        },
+        {
+            "sku": 7962113,
+            "product_name": "KitKat Ruby 41.5g",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Prem Choc"
+        },
+        {
+            "sku": 7876864,
+            "product_name": "KitKat chunky cheesecake 42g",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Singles"
+        },
+        {
+            "sku": 7962156,
+            "product_name": "KitKat Senses Salted Caramel Single 30g",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Prem Choc"
+        },
+        {
+            "sku": 7717274,
+            "product_name": "KITKAT CHUNKY Double Caramel 42g",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Singles"
+        },
+        {
+            "sku": 7926033,
+            "product_name": "KitKat Chunky salted caramel 42g",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Singles"
+        },
+        {
+            "sku": 8182002,
+            "product_name": "KITKAT 4F Dark Cocoa 41.5g IAP",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Prem Choc"
+        },
+        {
+            "sku": 8034455,
+            "product_name": "KitKat Chunky Cookie Dough 42g",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Singles"
+        },
+        {
+            "sku": 8017254,
+            "product_name": "KitKat Gold 4 Finger 41.5g",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Prem Choc"
+        },
+        {
+            "sku": 7698575,
+            "product_name": "KITKAT Mixed shipper 16.848kg",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Singles"
+        },
+        {
+            "sku": 7855020,
+            "product_name": "KitKat chunky duo 70g PFS",
+            "buyer_category": "Single Confectionery",
+            "product_category": "Singles"
+        },
+        {
+            "sku": 7699416,
+            "product_name": "KitKat 2 Finger milk 14pkt",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 8204501,
+            "product_name": "KitKat 2 Finger Cookies & Cream 9pk 186g",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 6014611,
+            "product_name": "Kitkat 2f orange 12pk 99p 252g",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 8219342,
+            "product_name": "KitKat 2 Finger Coffee 9pk 186.3g",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 8078484,
+            "product_name": "KitKat 2 finger Caramel 9pk",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 7802384,
+            "product_name": "KitKat 2 finger dark mint 8x20.7g",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 7770555,
+            "product_name": "KITKAT 2F COOKIES & CREAM 16x20.8g",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 6014659,
+            "product_name": "kitkat 2f mlk 12p 99p 252g",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 7735987,
+            "product_name": "KitKat 2 Finger Toffee 8x20.7g",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 8078048,
+            "product_name": "Kitkat 2 finger choc orange 14pk",
+            "buyer_category": "Adult Lunchbox Bisc",
+            "product_category": "Kit Kat"
+        },
+        {
+            "sku": 8015593,
+            "product_name": "KitKat Bunny Mixed Shipper",
+            "buyer_category": "Easter Non Shell",
+            "product_category": "Easter Singles"
+        },
+        {
+            "sku": 8043776,
+            "product_name": "KitKat Mini Eggs 81g",
+            "buyer_category": "Easter Non Shell",
+            "product_category": "Standard Mini Eggs"
+        }
+    ]
+}
